@@ -4,4 +4,4 @@ numpy
 tensorflow-cpu
 scikit-learn
 requests
-werkzeug
+os
