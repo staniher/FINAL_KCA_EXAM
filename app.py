@@ -1,7 +1,7 @@
 import os
-from PIL import Image as pil_image
+#from PIL import Image as pil_image
 import numpy as np
-from glob import glob
+#from glob import glob
 from werkzeug.utils import secure_filename
 from tensorflow.keras.applications.imagenet_utils import preprocess_input,decode_predictions
 from tensorflow.keras.models import Model, load_model
