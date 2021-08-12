@@ -1,5 +1,5 @@
 import os
-#from PIL import Image as pil_image
+from PIL import Image as pil_image
 import numpy as np
 #from glob import glob
 from werkzeug.utils import secure_filename
